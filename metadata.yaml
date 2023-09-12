@@ -1,0 +1,27 @@
+_repo: How-to-become-a-scientist-b-Giving-interesting-and-instructive-experiments-in-chemistry-mecha__71522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warford, Aaron A.
+    gutenberg_agent_id: '41524'
+    url: http://www.gutenberg.org/2009/agents/41524
+description: ''
+gutenberg_issued: '2023-08-30'
+identifiers:
+  gutenberg: '71522'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:827487
+pgterms:marc905: 20230517115435warford
+pgterms:marc906: '1900'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bFrank Tousey, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'How to become a scientist : $b Giving interesting and instructive experiments
+  in chemistry, mechanics, acoustics and pyrotechnics'
+url: http://www.gutenberg.org/ebooks/71522
