@@ -1,11 +1,16 @@
 _repo: How-to-become-a-scientist-b-Giving-interesting-and-instructive-experiments-in-chemistry-mecha__71522
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71522-h/images/cover.jpg
 creator:
   author:
     agent_name: Warford, Aaron A.
     gutenberg_agent_id: '41524'
     url: http://www.gutenberg.org/2009/agents/41524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71522#How-to-become-a-scientist-b-Giving-interesting-and-instructive-experiments-in-chemistry-mecha_
 gutenberg_issued: '2023-08-30'
 identifiers:
   gutenberg: '71522'
